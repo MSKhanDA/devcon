@@ -576,6 +576,16 @@ body {
     color: white;
 }
 
+/* Add styles for social media logos */
+.social-links img {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 8px;
+    background: transparent;
+    border-radius: 4px;
+}
+
 .divider {
     max-width: 1200px;
     margin: 0 auto 20px;
