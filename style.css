@@ -26,10 +26,9 @@ body {
     padding: 15px 30px;
 }
 
-.logo {
-    font-size: 20px;
-    font-weight: bold;
-    color: #333;
+.logo img {
+    height: 40px;
+    max-width: 150px;
 }
 
 .nav-menu {
