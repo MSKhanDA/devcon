@@ -291,9 +291,9 @@ body {
     margin-bottom: 20px;
 }
 
-.footer-logo {
-    font-size: 20px;
-    font-weight: bold;
+.footer-logo img {
+    height: 40px;
+    max-width: 150px;
 }
 
 .social-links {
