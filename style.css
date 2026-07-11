@@ -15,6 +15,7 @@ body {
     border-bottom: 1px solid #ddd;
     position: sticky;
     top: 0;
+    z-index: 1000;
 }
 
 .nav-container {
@@ -71,6 +72,8 @@ body {
     justify-content: center;
     text-align: center;
     color: white;
+    position: relative;
+    z-index: 2;
 }
 
 .hero-content {
@@ -186,6 +189,8 @@ body {
     margin: 0 auto 60px;
     padding: 0 20px;
     flex-wrap: wrap;
+    position: relative;
+    z-index: 2;
 }
 
 .pricing-card {
@@ -311,6 +316,7 @@ body {
     padding: 80px 20px;
     position: relative;
     overflow: hidden;
+    z-index: 3;
 }
 
 .sponsors-showcase::before {
@@ -570,7 +576,7 @@ body {
     color: white;
 }
 
-.section-divider {
+.divider {
     max-width: 1200px;
     margin: 0 auto 20px;
     border: none;
