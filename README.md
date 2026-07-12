@@ -51,4 +51,4 @@ This is a responsive conference website built with HTML and CSS featuring:
 
 ## 🚀 How to Run
 
-Simply just type https://mskhanda.github.io/devcon/ in your browser to launch this project. 
+Simply just click this link to launch this project: https://mskhanda.github.io/devcon/
