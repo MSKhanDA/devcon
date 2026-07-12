@@ -1,4 +1,4 @@
-# DevConf 2026 Conference Website
+# DevConf 2026 Conference Website for Assesment 1
 
 Welcome to the official website for DevConf 2026 - a premier developer conference focused on cutting-edge technology, networking, and learning opportunities.
 
@@ -13,9 +13,6 @@ This is a responsive conference website built with HTML and CSS featuring:
 
 ## 🏗️ Features
 
-### Navigation
-- Clean navigation bar with logo and menu items
-- Mobile-friendly layout
 
 ### Hero Section
 - Eye-catching banner with conference slogan "Code. Connect. Create."
@@ -54,22 +51,4 @@ This is a responsive conference website built with HTML and CSS featuring:
 
 ## 🚀 How to Run
 
-1. Clone or download this repository
-2. Open [index.html](file:///c:/Users/masum/Documents/Web%20Programming%20Hero/Assignment%201/index.html) in any modern web browser
-3. Navigate through the site to explore conference information
-
-## 🎨 Design Highlights
-
-- Professional color scheme suitable for a tech conference
-- Consistent typography and spacing
-- Responsive design that adapts to different screen sizes
-- Visual hierarchy that guides users through important information
-- Interactive elements with hover effects
-
-## 🤝 Contributing
-
-This project serves as a frontend template for conference websites. Feel free to fork and customize for your own events!
-
-## ©️ License
-
-This project is open source and available under the MIT License.
+Simply just type https://mskhanda.github.io/devcon/ in your browser to launch this project. 
