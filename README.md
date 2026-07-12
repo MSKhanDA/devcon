@@ -6,13 +6,6 @@ Welcome to the official website for DevConf 2026 - a premier developer conferenc
 
 This is a responsive conference website built with HTML and CSS featuring:
 
-- Modern, clean design optimized for conferences
-- Responsive layout that works on all devices
-- Key sections for speakers, pricing plans, and sponsors
-- Professional styling with consistent color scheme
-
-## 🏗️ Features
-
 
 ### Hero Section
 - Eye-catching banner with conference slogan "Code. Connect. Create."
